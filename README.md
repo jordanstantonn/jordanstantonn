@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>TryHackMe </b>
-  - [TryHackMe Learning Pathways](https://github.com/jordanstantonn/TryHackMe.git)
+- <b>TryHackMe Pre Security </b>
+  - [TryHackMe Pre Security Pathway](https://github.com/jordanstantonn/TryHackMe.git)
 
 
 
