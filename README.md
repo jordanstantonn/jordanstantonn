@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>TryHackMe </b>
-  - [TryHackMe Learning Pathways](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TryHackMe Learning Pathways](https://github.com/jordanstantonn/TryHackMe.git)
 
 
 
