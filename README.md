@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>IBM SKills Build</b>
+- <b>Wireshark Network Traffic Capture and Packet Analysis</b>
   - [Information Technology Learning Pathway](https://github.com/joshmadakor1/Algorithms-Practice)
 
   
