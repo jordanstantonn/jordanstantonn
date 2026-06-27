@@ -1,13 +1,13 @@
 <h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/in/jordanstantonn/">IT and Cybersecurity Student</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 🖥️ Information Technology Projects:</h2>
 
 - <b>TryHackMe Pre Security </b>
   - [TryHackMe Pre Security Pathway](https://github.com/jordanstantonn/TryHackMe.git)
 
 
 
-<h2>🖥️ Information Technology Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>IBM SKills Build</b>
   - [Information Technology Learning Pathway](https://github.com/joshmadakor1/Algorithms-Practice)
