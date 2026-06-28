@@ -3,7 +3,7 @@
 <h2> 🖥️ Information Technology Projects:</h2>
 
 - <b>SOHO Network Deployment and Configuration - Cisco Packet Tracer</b>
-  - [TryHackMe Pre Security Pathway](https://github.com/jordanstantonn/TryHackMe.git)
+  - [SOHO Network Deployment and Configuration](https://github.com/jordanstantonn/TryHackMe.git)
 
 
 
