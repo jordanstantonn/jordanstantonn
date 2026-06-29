@@ -3,10 +3,10 @@
 <h2> 🖥️ Information Technology Projects:</h2>
 
 - <b>SOHO Network Deployment and Configuration - Cisco Packet Tracer</b>
-  - [SOHO Network Deployment and Configuration](https://github.com/jordanstantonn/TryHackMe.git)
+  - [SOHO Network Deployment and Configuration Documentation](https://github.com/jordanstantonn/TryHackMe.git)
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/jordanstantonn/activedirectory)
+  - [Active Directory Documentation](https://github.com/jordanstantonn/activedirectory)
   
 
 
