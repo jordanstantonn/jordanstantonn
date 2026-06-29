@@ -5,6 +5,9 @@
 - <b>SOHO Network Deployment and Configuration - Cisco Packet Tracer</b>
   - [SOHO Network Deployment and Configuration](https://github.com/jordanstantonn/TryHackMe.git)
 
+  - <b>Activer Directory Home Lab</b>
+  - [Active Directory](https://github.com/jordanstantonn/activedirectory)
+
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
