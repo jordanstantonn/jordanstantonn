@@ -9,8 +9,7 @@
   - [Active Directory Documentation](https://github.com/jordanstantonn/activedirectory)
 
 
- - <b>Ticketing System Project</b>
-   - [SOON!](https://github.com/jordanstantonn/activedirectory)
+
   
 
 
@@ -20,8 +19,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Wireshark Network Traffic Capture and Packet Analysis</b>
-  - [SOON!](https://github.com/jordanstantonn)
+
+
 
   
 <h2> 🤳 Connect with me:</h2>
