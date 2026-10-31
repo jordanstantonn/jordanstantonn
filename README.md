@@ -1,12 +1,11 @@
 <h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/in/jordanstantonn/">IT and Cybersecurity Student</a>
 
-<h2> 🖥️ Information Technology Projects:</h2>
+<h2> 🖥️ My Projects:</h2>
 
-- <b>SOHO Network Deployment and Configuration - Cisco Packet Tracer</b>
-  - [SOHO Network Deployment and Configuration Documentation](https://github.com/jordanstantonn/TryHackMe.git)
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Documentation](https://github.com/jordanstantonn/activedirectory)
+   [SOHO Network Deployment and Configuration Documentation](https://github.com/jordanstantonn/TryHackMe.git) 
+   
+   [Active Directory Documentation](https://github.com/jordanstantonn/activedirectory)
 
 
 
@@ -17,7 +16,6 @@
 
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 
