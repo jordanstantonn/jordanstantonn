@@ -1,46 +1,27 @@
-<h1>Hi, I'm Jordan! <br/><a href="https://www.linkedin.com/in/jordanstantonn/">IT and Cybersecurity Student</a>
+# Jordan Stanton</a>'s Project Portfolio 
+<!-- 
+I'm passionate about Cybersecurity, DevOps, and Cloud. I love tackling challenges through hands-on projects. Please feel free to check them out and see the work I’ve done!
+-->
+## 💻 My Projects
 
-<h2> 🖥️ My Projects:</h2>
+- **[Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/jordanstantonn/activedirectory)**
+- **[SOHO Network Deployment and Configuration](https://github.com/jordanstantonn/SOHO-Network-Deployment-and-Configuration)**
+- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidwest1/AzureSIEMLab)**
+- **[osTicket: Prerequisites and Installation](https://github.com/jordanstantonn)**
+- **[osTicket: Post-Installation Configurations](https://github.com/jordanstantonn)**  
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/jordanstantonn)**  
+<!-- 
 
+-->
+<hr/>
 
-   [SOHO Network Deployment and Configuration Documentation](https://github.com/jordanstantonn/TryHackMe.git) 
-   
-   [Active Directory Documentation](https://github.com/jordanstantonn/activedirectory)
+## 🤳 Connect With Me
 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-  
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jordanstantonn/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
