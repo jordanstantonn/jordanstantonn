@@ -5,7 +5,7 @@ I'm passionate about Cybersecurity, DevOps, and Cloud. I love tackling challenge
 ## 💻 My Projects
 
 - **[Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/jordanstantonn/activedirectory)**
-- **[Creating a Simple Network](https://github.com/jordanstantonn/SOHO-Network-Deployment-and-Configuration)**
+- **[Creating a Simple Network - Cisco Packet Tracer](https://github.com/jordanstantonn/SOHO-Network-Deployment-and-Configuration)**
 - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidwest1/AzureSIEMLab)**
 - **[osTicket: Prerequisites and Installation](https://github.com/jordanstantonn)**
 - **[osTicket: Post-Installation Configurations](https://github.com/jordanstantonn)**  
